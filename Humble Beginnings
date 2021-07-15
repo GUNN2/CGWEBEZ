@@ -1,0 +1,23 @@
+<HTML> <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+<HEAD>
+<TITLE> BASICS </TITLE>
+</HEAD>
+<BODY BGCOLOR="BLACK" TEXT="WHITE">
+<H1>
+  <H1 ALIGN=CENTER>
+  <FONT SIZE=0> 
+EASY AS PIE (PIES NOT EASY)
+    </H1>
+<H2>
+<FONT FACE="MAJOR PLAYER">
+<FONT SIZE=50>
+  <H2 ALIGN=CENTER>
+  CREATE A BLOB
+  </H2>
+  </FONT>  
+
+<iframe src="https://open.spotify.com/embed/playlist/28YAwY11YxRLZ63nTzS2QC" width="50%" height="200" frameBorder="0" allowtransparency="true" allow="encrypted-media">
+</iframe>
+  
+</BODY>
+</HTML>
